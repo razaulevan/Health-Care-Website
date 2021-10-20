@@ -1,0 +1,17 @@
+.doctors img{
+    width: 100%;
+    border-radius: 10px;
+    
+    }
+    .doctors{
+        border: 1px solid rgb(71, 71, 69);
+        border-radius: 10px;
+        background-color: rgb(182, 214, 233);
+        box-shadow: 5px 10px 18px rgb(88, 92, 92);
+        
+        
+    }
+    .doctors:hover{
+        background-color: mediumspringgreen;
+        cursor: pointer;
+    }

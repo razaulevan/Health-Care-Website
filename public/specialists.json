@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "department": "Emergency department",
+        "name": "Dr. Razaul Karim",
+        "Fees": "800",
+        "description": "This is an integral part of a hospital that caters to life-or-death situations that need immediate medical attention. This department may be divided into sub-units for trauma, burn, trauma surgery, and urgent care.",
+        "img": "https://i.ibb.co/4P28Bc1/rsz-emergency-department.jpg"
+    },
+    {
+        "id": 2,
+        "department": "Cardiology department",
+        "name": "Dr. Abul Bashar",
+        "Fees": "1000",
+        "description": "This ward caters to patients diagnosed with heart problems that need constant monitoring and observation due to fluctuations and abnormalities in the blood circulation and cardiac function.",
+        "img": "https://i.ibb.co/CMn8GDD/rsz-2cardiology-cath-lab.jpg"
+    },
+    {
+        "id": 3,
+        "department": "Intensive care unit (ICU)",
+        "name": "Dr. Shihab Ulllah",
+        "Fees": "900",
+        "description": "This department is where critically ill patients with life support apparatuses get admitted to making sure that they are being monitored by specially-trained staff nurses and doctors who closely supervise their vital signs.",
+        "img": "https://i.ibb.co/dQmPs4Q/rsz-1-111210163-intensivecare1.jpg"
+    },
+    {
+        "id": 4,
+        "department": "Neurology, oncology, OB departments",
+        "name": "Dr. Mehedi Hasan",
+        "Fees": "800",
+        "description": "These are specialized wards that deal with admitted patients suffering from neurological problems, cancer, or pregnancy and reproductive complications, respectively.",
+        "img": "https://i.ibb.co/zS11w0V/rsz-mshs-neurooncology-2col-770x420-2.jpg"
+    },
+    {
+        "id": 5,
+        "department": "Nursing administration",
+        "name": "Dr. Abdul Karim",
+        "Fees": "800",
+        "description": "this is one of the departments in a hospital that is somehow overlooked by patients, mainly because its function is not necessarily for their welfare. This department caters to the needs and discipline of the staff nurses in the hospital.",
+        "img": "https://i.ibb.co/qNpXy63/rsz-altitude-aspen-university-msn-nursing-administration.png"
+    },
+    {
+        "id": 6,
+        "department": "Outpatient departments",
+        "name": "Dr. Rashed Hossain",
+        "Fees": "800",
+        "description": "hese comprise of different outpatient clinics and treatment units for behavioral health, dental services, dermatology (skin diseases), physical therapy, internal medicine, rehabilitative medicine, and psychiatry/psychology.",
+        "img": "https://i.ibb.co/gtFbffk/This-is-a-real-situation-Image-not-to-be-used-in-a-defamatory-context-Hospital-outpatient-department.jpg"
+    },
+    {
+        "id": 7,
+        "department": "Pharmacy",
+        "name": "Yasmin Jerry",
+        "description": "All medications prescribed to be taken in or out of the hospital can be purchased in this department. Licensed pharmacists manage the distribution, dispensing, use, and supply of medications within the entire hospital facility.",
+        "img": "https://i.ibb.co/Dz0HKdZ/rsz-1pharmacist-smiles.jpg"
+    },
+    {
+        "id": 8,
+        "department": "Radiology",
+        "name": "Dr. Robin Ahmed",
+        "Fees": "800",
+        "description": "his is where imaging tests are performed. X-rays, CT-scans, MRI, ultrasounds are just some of the diagnostic procedures that are performed in this department.",
+        "img": "https://i.ibb.co/VJwyms7/rsz-1barco-radiologist-6-blue-preview-jpg.jpg"
+    },
+    {
+        "id": 9,
+        "department": "Pathology/ Laboratory",
+        "name": "Dr. Noor Nahar",
+        "Fees": "800",
+        "description": "This is also a department that handles diagnostic tests that deal with the secretions and body fluids of a patient to determine diagnosis or a disease etiology.",
+        "img": "https://i.ibb.co/c16fKQM/rsz-pathology-laboratory.jpg"
+    }
+]
